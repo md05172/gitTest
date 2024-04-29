@@ -14,7 +14,7 @@ public class MemberController extends HttpServlet{
 	
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-
+//		주석을 써 볼게용
 	}
 	
 	@Override
