@@ -19,5 +19,7 @@ public class MemberController extends HttpServlet{
 	
 	@Override
 	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+//		이번에는 develop이 써 본다
+		System.out.println("develop - write");
 	}
 }
